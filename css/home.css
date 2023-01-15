@@ -1,0 +1,41 @@
+/* .tableCenter{
+    display: flex;
+    justify-content: center;
+    display: flex;
+} */
+
+
+#kutu1{
+    background-color: lightgray;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+#inlineKutu1{
+    display: inline;
+    background-color: aqua;
+}
+
+#inlineKutu2{
+    display: inline;
+    background-color: aqua;
+}
+
+#kutuIciYazi{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* td:nth-child(2) {
+    width: 200px; 
+    overflow: auto;
+} */
+
+
+/* #kutu1 img{
+    max-width: 100%;
+    max-height: 100%;
+    display: flex;
+}  */
